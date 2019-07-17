@@ -1,0 +1,6 @@
+
+https://github.com/hpecic/openshift-app
+
+
+
+haproxy.router.openshift.io/disable_cookies: 'true'
